@@ -1,0 +1,28 @@
+.container {
+    height: 500px;
+    border: 5px solid black;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.bg-red {
+    background-color: coral;
+}
+
+.bg-green {
+    background-color: chartreuse;
+}
+
+.bg-blue {
+    background-color:darkslategrey;
+}
